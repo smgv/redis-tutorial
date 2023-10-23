@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "hgetall",
+    "hset",
+    "lrange",
+    "numincrby",
+    "rpush",
+    "sadd",
+    "smembers",
+    "upvote",
+    "UPVOTED"
+  ]
+}
